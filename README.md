@@ -62,13 +62,6 @@ This project analyzes employee data to identify patterns and factors that lead t
 
 ---
 
-## ✅ How to Use
-1. Open the Excel file in `/dashboard/HR_Attrition_Dashboard.xlsx`
-2. Use slicers to filter by Gender, Department, and Job Role
-3. View visual insights instantly on the dashboard
-
----
-
 ## 📬 Contact
 **Your Name** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
