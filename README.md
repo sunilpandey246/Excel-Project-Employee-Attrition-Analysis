@@ -5,7 +5,7 @@ This project analyzes employee data to identify patterns and factors that lead t
 ---
 
 ## 🧰 Tools Used
-- **Microsoft Excel** (No code required)
+- **Microsoft Excel**
   - Pivot Tables
   - Conditional Formatting
   - Formulas: `IF`, `COUNTIF`, `AVERAGEIF`, `VLOOKUP`, `TEXT`, `DATEDIF`, etc.
