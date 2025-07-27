@@ -11,3 +11,65 @@ This project analyzes employee data to identify patterns and factors that lead t
   - Formulas: `IF`, `COUNTIF`, `AVERAGEIF`, `VLOOKUP`, `TEXT`, `DATEDIF`, etc.
   - Charts: Bar, Pie, Line
   - Slicers and Interactive Dashboard
+ 
+  - ## 📊 Dataset Summary
+| Column Name         | Description                            |
+|---------------------|----------------------------------------|
+| EmployeeID          | Unique ID for each employee            |
+| Department          | HR, Sales, R&D                         |
+| JobRole             | Role of the employee                   |
+| Gender              | Male / Female                          |
+| Age                 | Employee's age                         |
+| MonthlyIncome       | Salary                                 |
+| YearsAtCompany      | Tenure in years                        |
+| Attrition           | Yes / No (if the employee left)        |
+| JobSatisfaction     | Rating from 1 to 4                     |
+| Education           | Level from 1 (Below College) to 5      |
+
+---
+
+## 🎯 Key Objectives
+- Determine attrition rates by department, age group, and gender
+- Identify salary trends among employees who left
+- Compare satisfaction scores between retained and exited staff
+- Build an interactive dashboard for HR stakeholders
+
+---
+
+## 📌 Excel Features Used
+- ✅ Data Cleaning (Text functions, Remove Duplicates)
+- ✅ Formulas: `IF`, `COUNTIF`, `AVERAGEIF`, `VLOOKUP`, `DATEDIF`
+- ✅ Pivot Tables for grouping & aggregation
+- ✅ Charts (Bar, Pie, Line) to visualize attrition
+- ✅ Slicers for interactivity in the dashboard
+
+---
+
+## 📷 Dashboard Screenshot
+![Dashboard Preview](images/dashboard_screenshot.png)
+
+---
+
+## 🔍 Key Insights
+- 🚹 Male employees had a slightly higher attrition rate than females
+- 💼 Sales Department showed the highest attrition
+- 💰 Employees with lower income (< ₹30K/month) had higher attrition
+- 😊 Employees with JobSatisfaction ≤ 2 were more likely to leave
+
+---
+
+## ✅ How to Use
+1. Open the Excel file in `/dashboard/HR_Attrition_Dashboard.xlsx`
+2. Use slicers to filter by Gender, Department, and Job Role
+3. View visual insights instantly on the dashboard
+
+---
+
+## 📬 Contact
+**Your Name** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+
+---
+
+## 🏁 Note
+The dataset is synthetic and created for educational purposes.
+Feel free to fork and use it in your own portfolio!
