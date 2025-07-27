@@ -46,7 +46,9 @@ This project analyzes employee data to identify patterns and factors that lead t
 ---
 
 ## 📷 Dashboard Screenshot
-![Dashboard Preview](images/dashboard_screenshot.png)
+<img width="726" height="309" alt="image" src="https://github.com/user-attachments/assets/8bd7005c-b932-4597-920a-fa48c35a709f" />
+
+
 
 ---
 
