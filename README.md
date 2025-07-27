@@ -63,6 +63,6 @@ This project analyzes employee data to identify patterns and factors that lead t
 ---
 
 ## 📬 Contact
-**Your Name** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email]"sunilpandey478@gmail.com"
+**Your Name** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email]"sunilpandey2468@gmail.com"
 
 ---
