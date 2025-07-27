@@ -14,7 +14,7 @@ This project analyzes employee data to identify patterns and factors that lead t
  
   - --
  
-  - ## 📊 Dataset Summary
+## 📊 Dataset Summary
 | Column Name         | Description                            |
 |---------------------|----------------------------------------|
 | EmployeeID          | Unique ID for each employee            |
