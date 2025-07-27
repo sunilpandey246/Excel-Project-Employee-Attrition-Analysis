@@ -66,7 +66,3 @@ This project analyzes employee data to identify patterns and factors that lead t
 **Your Name** – [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
 ---
-
-## 🏁 Note
-The dataset is synthetic and created for educational purposes.
-Feel free to fork and use it in your own portfolio!
