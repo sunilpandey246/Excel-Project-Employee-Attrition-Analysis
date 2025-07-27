@@ -12,6 +12,8 @@ This project analyzes employee data to identify patterns and factors that lead t
   - Charts: Bar, Pie, Line
   - Slicers and Interactive Dashboard
  
+  - --
+ 
   - ## 📊 Dataset Summary
 | Column Name         | Description                            |
 |---------------------|----------------------------------------|
